@@ -1,12 +1,12 @@
 # React_Workshop
 
-## Pruthvi
+* Pruthvi
 
-## Deekshith
+* Deekshith
 
-## Harika
+* Harika
 
-## Sri sudheera 
+* Sri sudheera 
 
 ![Deekshith's Repo link](https://github.com/Dixith1196) 
 
