@@ -1,6 +1,6 @@
 # React_Workshop
 
-## React_Pruthvi
+## Pruthvi
 
 ## Deekshith
 
