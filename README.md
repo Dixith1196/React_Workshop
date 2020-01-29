@@ -8,9 +8,9 @@
 
 * Sri sudheera 
 
-[Deekshith's Repo link](https://github.com/Dixith1196) 
+[Deekshith's Git profile link](https://github.com/Dixith1196) 
 
-[Pruthvi's Repo link](https://github.com/pruthvi-naskanti)
+[Pruthvi's Git profile link](https://github.com/pruthvi-naskanti)
 
-[Harika's Repo link](https://github.com/KHARIKA17)
+[Harika's Git profile link](https://github.com/KHARIKA17)
 
