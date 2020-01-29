@@ -1,4 +1,4 @@
-# React_Workshop
+# react-workshop
 
 ## Group Memebers
 
