@@ -1,5 +1,7 @@
 # React_Workshop
 
+## Group Memebers
+
 * Pruthvi
 
 * Deekshith
@@ -7,6 +9,8 @@
 * Harika
 
 * Sri Sudheera 
+
+## Group Members Github Profile links
 
 [Deekshith's Git profile link](https://github.com/Dixith1196) 
 
